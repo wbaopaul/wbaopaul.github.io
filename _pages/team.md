@@ -5,9 +5,10 @@ permalink: /team/
 ---
 
 ### Principal Investigator
-
-**Dr. Wenbao Yu**
-_Assistant Professor, Lewis Katz School of Medicine, Temple University_
+![Dr. Wenbao Yu]({{ site.baseurl }}/images/headshot_WY.png)
+**Dr. Wenbao Yu**  
+Assistant Professor  
+wenbao.yu@temple.edu
 
 
 ---
