@@ -1147,16 +1147,16 @@ Modules - reusable parts of our design
 @import "svg-icons";
 
 .site-avatar {
-  float: left;
+  float: center;
   margin-right: 20px;
-  width: 200px;
-  height: 120px;
+  width: 540px;
+  height: 160px;
   overflow: visible;
 }
 
 .site-avatar img {
-  width: 200px;
-  height: 120px;
+  width: 540px;
+  height: 160px;
   border-radius: 0%;
   object-fit: cover;
 }
