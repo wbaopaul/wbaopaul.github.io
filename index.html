@@ -2,15 +2,23 @@
 layout: default
 ---
 
+<p class="home-intro">
+ The Yu lab operates at the intersection of genomics, data science and cancer biology. Opening in July 2026, we aim to uncover intra- and inter-cellular mechanisms of cancer cell plasticity — the ability of cancer cells to transit between distinct phenotypic states to resist treatment and evade immune surveillance. We will leverage cutting-edge single-cell and spatial omics technologies, statistical and machine learning approaches, along with collaborative functional studies. Our research focuses on several key areas:
+
+- Transcriptional and epigenetic regulation
+- Cell-cell communication within the tumor microenvironment
+- The impact of inflammation on the plasticity of cancer cells 
+</p>
+
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
         <h1>{{ post.title }}</h1>
 
-        <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-        </div>
+       % <div>
+       %   <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
+       % </div>
       </a>
       <div class="entry">
         {{ post.excerpt }}
