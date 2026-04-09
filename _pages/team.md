@@ -1,9 +1,10 @@
 ---
 layout: page
+title:
 permalink: /team/
 ---
 
-## Principal Investigator
+### Principal Investigator
 
 **Dr. Wenbao Yu**
 _Assistant Professor, Lewis Katz School of Medicine, Temple University_
@@ -11,9 +12,7 @@ _Assistant Professor, Lewis Katz School of Medicine, Temple University_
 
 ---
 
-## Graduate Students
-
-> **Fill in:** Add graduate student profiles here. Example format below.
+### Graduate Students
 
 <!--
 **Student Name**
@@ -23,13 +22,9 @@ Research interests: ...
 
 ---
 
-## Postdoctoral Researchers
+### Postdoctoral Researchers
 
-> **Fill in:** Add postdoc profiles here.
 
 ---
 
-## Alumni
-
-> **Fill in:** Add former lab members and their current positions here.
 
