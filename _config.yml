@@ -3,15 +3,15 @@
 #
 
 # Name of your site (displayed in the header)
-name: YU LAB 
+#name: YU LAB 
 
 # Name of the author
 #author: Wenbao Yu
 
-description: Computational Cancer Genomics @ Temple University & Fox Chase Cancer Center
+#description: Computational Cancer Genomics @ Temple University & Fox Chase Cancer Center
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/logo1.png
+avatar: /images/logo.png
 
 #
 # Flags below are optional
