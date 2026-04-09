@@ -1146,13 +1146,17 @@ Modules - reusable parts of our design
 @import "darcula";
 @import "svg-icons";
 
+.site-avatar {
+  float: left;
+  margin-right: 20px;
+  width: 120px;
+  height: 120px;
+  overflow: visible;
+}
 
 .site-avatar img {
   width: 120px;
   height: 120px;
-}
-
-.site-avatar {
-  float: left;
-  margin-right: 20px;
+  border-radius: 50%;
+  object-fit: cover;
 }
