@@ -4,15 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
-# Selected Publications
+### Selected Publications
 
-\* co-first authors, + co-corresponding authors. For a full list of publications, please visit [Google Scholar](https://scholar.google.com/citations?user=rSlUwVUAAAAJ&hl=en).
+- \* co-first authors, + co-corresponding authors. For a full list of publications, please visit [Google Scholar](https://scholar.google.com/citations?user=rSlUwVUAAAAJ&hl=en).
 
 * [A longitudinal single-cell and spatial multiomic atlas of pediatric high-grade glioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC10942465/) J. H. Sussman\*, D. A. Oldridge\*, **W. Yu**\*, et al.
   *Cell Reports Medicine* (In Press 2026).
 
 * [Longitudinal single-cell multiomic atlas of high-risk neuroblastoma reveals chemotherapy-induced tumor microenvironment rewiring](https://www.nature.com/articles/s41588-025-02158-6) 
-  **W. Yu**\*, R. Biyik-Sit\*, Y. Uzun\*, C.H. Chen\*, A. Thadi, et al. *Nature Genetics*, 57 (5), 1142-1154.
+  **W. Yu**\*, R. Biyik-Sit\*, Y. Uzun\*, C.H. Chen\*, A. Thadi, et al. *Nature Genetics* 2025, 57 (5), 1142-1154.
 
 * [RUNX1 is required in granulocyte-monocyte progenitors to attenuate inflammatory cytokine production by neutrophils](https://genesdev.cshlp.org/content/37/13-14/605) 
   A.U. Zezulin, D. Ye, E. Howell, D. Yen, E. Bresciani, J. Diemer, J. Ren, ..., **W. Yu**, et al. *Genes & Development*, 37, 605-620.
