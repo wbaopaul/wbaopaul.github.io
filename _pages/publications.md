@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### Selected Publications
 
-- \* co-first authors, + co-corresponding authors. For a full list of publications, please visit [Google Scholar](https://scholar.google.com/citations?user=rSlUwVUAAAAJ&hl=en).
+#### \* co-first authors, + co-corresponding authors. For a full list of publications, please visit [Google Scholar](https://scholar.google.com/citations?user=rSlUwVUAAAAJ&hl=en).
 
 * [A longitudinal single-cell and spatial multiomic atlas of pediatric high-grade glioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC10942465/) J. H. Sussman\*, D. A. Oldridge\*, **W. Yu**\*, et al.
   *Cell Reports Medicine* (In Press 2026).
