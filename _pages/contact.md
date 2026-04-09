@@ -13,7 +13,7 @@ Medical Education And Research Building
 Philadelphia, PA 19140
 
 
-### Affilitions
+### Affiliations
 Department of Cancer and Cellular Biology  
 Lewis Katz School of Medicine   
 Fox Chase Cncer Center  
