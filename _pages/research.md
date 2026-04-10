@@ -6,7 +6,7 @@ permalink: /research/
 
 ### Characterizing Tumor Heterogeneity and Tumor Microenvironment by Single-cell Multiomics
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;">
-  <img src="{{ site.baseurl }}/images/sc-multiomics.pdf" alt="sc-Multiomics" width="350">
+  <img src="{{ site.baseurl }}/images/sc-multiomics.pdf" alt="sc-Multiomics" width="400">
   <div>
     Single-cell sequencing technologies have revolutionized our understanding of cancer. 
     Using these approaches, we have characterized the single-cell transcriptome and chromatin 
@@ -26,9 +26,9 @@ permalink: /research/
 
 ### Transcriptional Regulation of Malignant Cell States
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;">
-  <img src="{{ site.baseurl }}/images/tanscriptional-regu.pdf" alt="tanscriptional-regu" width="350">
+  <img src="{{ site.baseurl }}/images/tanscriptional-regu.pdf" alt="tanscriptional-regu" width="400">
   <div>
-    coming soon
+    coming soon ...
   </div>
 </div>
 
@@ -37,7 +37,7 @@ permalink: /research/
 
 ### Epigenetic Regulation of Hematologic Development and Malignancies
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;">
-  <img src="{{ site.baseurl }}/images/runx1.pdf" alt="runx1" width="350">
+  <img src="{{ site.baseurl }}/images/runx1.pdf" alt="runx1" width="400">
   <div>
    We have made significant contributions to understanding how 3D genome organization
    regulates cell fate. In Cell Reports (2019), 
