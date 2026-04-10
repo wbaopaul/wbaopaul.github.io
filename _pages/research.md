@@ -17,9 +17,8 @@ accessibility of three high-risk pediatric cancers: KMT2A-rearranged leukemia
 ([Blood, 2022](https://ashpublications.org/blood/article/139/14/2198/483648/Single-cell-multiomics-reveals-increased)), 
 neuroblastoma ([Nature Genetics, 2025](https://www.nature.com/articles/s41588-025-02158-6)), 
 and glioblastoma ([Cell Reports Medicine, 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC10942465/)), 
-revealing key mechanisms underlying treatment resistance. 
-
-For example, in a recent study published in Nature Genetics, we constructed a longitudinal single-cell and spatial atlas of high-risk neuroblastoma. We identified multiple neoplastic and macrophage cell states, along with significant rewiring of the tumor microenvironment (TME), specifically driving macrophages toward pro-tumorigenic phenotypes via the HB-EGF/ERBB4 signaling axis.
+revealing key mechanisms underlying treatment resistance. For example, 
+in a recent study published in Nature Genetics, we constructed a longitudinal single-cell and spatial atlas of high-risk neuroblastoma. We identified multiple neoplastic and macrophage cell states, along with significant rewiring of the tumor microenvironment (TME), specifically driving macrophages toward pro-tumorigenic phenotypes via the HB-EGF/ERBB4 signaling axis.
 
 </div>
 </div>
@@ -28,8 +27,10 @@ For example, in a recent study published in Nature Genetics, we constructed a lo
 
 ### Transcriptional Regulation of Malignant Cell States
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;" markdown="1">
+<div style="flex: 0 0 300px;" markdown="1">
+![transcriptional-regu]({{ site.baseurl }}/images/transcriptional-regu.pdf){: width="300"}
+</div>
 <div style="font-size: 0.85em; flex: 1;" markdown="1">
-
 Recent single-cell profiling reveals that diverse cancer cell states co-exist, 
 driving treatment resistance and relapse. To define how these states are transcriptionally regulated, 
 we developed a computational pipeline to infer transcriptional regulatory networks (TRNs) linking enhancers, 
@@ -37,12 +38,8 @@ transcription factors, and target genes
 ([Blood, 2022](https://ashpublications.org/blood/article/139/14/2198/483648/Single-cell-multiomics-reveals-increased); 
 [Nature Genetics, 2025](https://www.nature.com/articles/s41588-025-02158-6); 
 [Cell Reports Medicine, 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC10942465/)). 
-
-In KMT2A-rearranged leukemia, we uncovered key transcription factors that regulate critical pathways in a rare stem-like leukemic cell population, suppressing natural killer cell activity.
-
-</div>
-<div style="flex: 0 0 300px;" markdown="1">
-![transcriptional-regu]({{ site.baseurl }}/images/transcriptional-regu.pdf){: width="300"}
+In KMT2A-rearranged leukemia, we uncovered key transcription factors that regulate critical pathways 
+in a rare stem-like leukemic cell population, suppressing natural killer cell activity.
 </div>
 </div>
 ---
@@ -58,7 +55,8 @@ We have made significant contributions to understanding how 3D genome organizati
 regulates cell fate. In [Cell Reports (2019)](https://www.cell.com/cell-reports/fulltext/S2211-1247(19)31556-6), 
 we demonstrated that while global genome structure is conserved between 
 fetal and adult hematopoietic stem cells (HSCs), 
-specific enhancer-promoter reorganizations drive developmental phenotypic differences. Furthermore, in [Genes & Development (2023)](https://genesdev.cshlp.org/content/37/13-14/605), we found that the transcription factor RUNX1 acts as an epigenetic gatekeeper in granulocyte-monocyte progenitors and neutrophils, restricting inflammatory signaling, which has profound implications for inflammatory disorders in leukemia patients.
+specific enhancer-promoter reorganizations drive developmental phenotypic differences. 
+Furthermore, in [Genes & Development (2023)](https://genesdev.cshlp.org/content/37/13-14/605), we found that the transcription factor RUNX1 acts as an epigenetic gatekeeper in granulocyte-monocyte progenitors and neutrophils, restricting inflammatory signaling, which has profound implications for inflammatory disorders in leukemia patients.
 
 </div>
 </div>
