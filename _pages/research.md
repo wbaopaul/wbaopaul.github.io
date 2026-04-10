@@ -27,9 +27,6 @@ in a recent study published in Nature Genetics, we constructed a longitudinal si
 
 ### Transcriptional Regulation of Malignant Cell States
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;" markdown="1">
-<div style="flex: 0 0 300px;" markdown="1">
-![transcriptional-regu]({{ site.baseurl }}/images/transcriptional-regu.pdf){: width="300"}
-</div>
 <div style="font-size: 0.85em; flex: 1;" markdown="1">
 Recent single-cell profiling reveals that diverse cancer cell states co-exist, 
 driving treatment resistance and relapse. To define how these states are transcriptionally regulated, 
@@ -40,6 +37,9 @@ transcription factors, and target genes
 [Cell Reports Medicine, 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC10942465/)). 
 In KMT2A-rearranged leukemia, we uncovered key transcription factors that regulate critical pathways 
 in a rare stem-like leukemic cell population, suppressing natural killer cell activity.
+</div>
+<div style="flex: 0 0 300px;">
+  <img src="{{ site.baseurl }}/images/tanscriptional-regu.pdf" alt="tanscriptional-regu" style="width: 300px; display: block;">
 </div>
 </div>
 ---
