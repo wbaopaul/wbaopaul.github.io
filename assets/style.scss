@@ -1146,12 +1146,16 @@ Modules - reusable parts of our design
 @import "darcula";
 @import "svg-icons";
 
+.masthead {
+  padding: 0;
+}
+
 .site-avatar {
   width: 100%;
   float: none;
   margin: 0;
+  padding: 0;
   line-height: 0;
-  background: transparent;
 }
 
 .site-avatar img {
@@ -1159,4 +1163,6 @@ Modules - reusable parts of our design
   height: auto;
   border-radius: 0;
   display: block;
+  margin: 0;
+  padding: 0;
 }
