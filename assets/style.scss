@@ -1150,10 +1150,13 @@ Modules - reusable parts of our design
   width: 100%;
   float: none;
   margin: 0;
+  line-height: 0;
+  background: transparent;
 }
 
 .site-avatar img {
   width: 100%;
   height: auto;
   border-radius: 0;
+  display: block;
 }
