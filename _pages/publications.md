@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### Selected Publications
 
-*\* co-first authors, + co-corresponding authors*. For a full list of publications, please visit [Google Scholar](https://scholar.google.com/citations?user=rSlUwVUAAAAJ&hl=en).
+*\* Co-first authors, <sup>+</sup>  Co-corresponding authors*. For a full list of publications, please visit [Google Scholar](https://scholar.google.com/citations?user=rSlUwVUAAAAJ&hl=en).
 
 * [A longitudinal single-cell and spatial multiomic atlas of pediatric high-grade glioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC10942465/) J. H. Sussman\*, D. A. Oldridge\*, **W. Yu**\*, et al.
   *Cell Reports Medicine* (In Press 2026).
@@ -15,7 +15,7 @@ permalink: /publications/
   **W. Yu**\*, R. Biyik-Sit\*, Y. Uzun\*, C.H. Chen\*, A. Thadi, et al. *Nature Genetics* 2025, 57 (5), 1142-1154.
 
 * [RUNX1 is required in granulocyte-monocyte progenitors to attenuate inflammatory cytokine production by neutrophils](https://genesdev.cshlp.org/content/37/13-14/605) 
-  A.U. Zezulin, D. Ye, E. Howell, D. Yen, E. Bresciani, J. Diemer, J. Ren, ..., **W. Yu** +, N. A. Speck +. *Genes & Development* 2023, 37, 605-620.
+  A.U. Zezulin, D. Ye, E. Howell, D. Yen, E. Bresciani, J. Diemer, J. Ren, ..., **W. Yu** <sup>+</sup>, N. A. Speck <sup>+</sup>. *Genes & Development* 2023, 37, 605-620.
 
 * [Single-cell multiomics reveals increased plasticity, resistant populations, and stem-cell–like blasts in KMT2A-rearranged leukemia](https://ashpublications.org/blood/article/139/14/2198/483648/Single-cell-multiomics-reveals-increased) 
   C. Chen\*, **W. Yu**\*, F. Alikarami\*, Q. Qiu, et al. *Blood* 2022, 139 (14), 2198-2211.
