@@ -7,7 +7,7 @@ permalink: /research/
 ### Characterizing Tumor Heterogeneity and Tumor Microenvironment by Single-cell Multiomics
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;" markdown="1">
 <div style="flex: 0 0 300px;">
-  <img src="{{ site.baseurl }}/images/sc-multiomics.pdf" alt="sc-Multiomics" style="width: 300px; display: block;">
+  <img src="{{ site.baseurl }}/images/sc-multiomics.png" alt="sc-Multiomics" style="width: 300px; display: block;">
 </div>
 <div style="font-size: 0.85em; flex: 1;" markdown="1">
 
@@ -39,7 +39,7 @@ In KMT2A-rearranged leukemia, we uncovered key transcription factors that regula
 in a rare stem-like leukemic cell population, suppressing natural killer cell activity.
 </div>
 <div style="flex: 0 0 300px;">
-  <img src="{{ site.baseurl }}/images/tanscriptional-regu.pdf" alt="tanscriptional-regu" style="width: 300px; display: block;">
+  <img src="{{ site.baseurl }}/images/tanscriptional-regu.png" alt="tanscriptional-regu" style="width: 300px; display: block;">
 </div>
 </div>
 ---
@@ -47,7 +47,7 @@ in a rare stem-like leukemic cell population, suppressing natural killer cell ac
 ### Epigenetic Regulation of Hematologic Development and Malignancies
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;" markdown="1">
 <div style="flex: 0 0 300px;">
-  <img src="{{ site.baseurl }}/images/runx1.pdf" alt="runx1" style="width: 300px; display: block;">
+  <img src="{{ site.baseurl }}/images/runx1.png" alt="runx1" style="width: 300px; display: block;">
 </div>
 <div style="font-size: 0.85em; flex: 1;" markdown="1">
 
