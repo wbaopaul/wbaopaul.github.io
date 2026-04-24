@@ -39,7 +39,7 @@ In KMT2A-rearranged leukemia, we uncovered key transcription factors that regula
 in a rare stem-like leukemic cell population, suppressing natural killer cell activity.
 </div>
 <div style="flex: 0 0 300px;">
-  <img src="{{ site.baseurl }}/images/tanscriptional-regu.png" alt="tanscriptional-regu" style="width: 300px; display: block;">
+  <img src="{{ site.baseurl }}/images/transcriptional-regu.png" alt="transcriptional-regu" style="width: 300px; display: block;">
 </div>
 </div>
 ---
