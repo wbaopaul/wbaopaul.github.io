@@ -8,7 +8,7 @@ permalink: /publications/
 
 *\* Co-first authors, #  Co-corresponding authors*. For a full list of publications, please visit [Google Scholar](https://scholar.google.com/citations?user=rSlUwVUAAAAJ&hl=en).
 
-* J. H. Sussman\*, D. A. Oldridge\*, **W. Yu**\*, et al. [A longitudinal single-cell and spatial multiomic atlas of pediatric high-grade glioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC10942465/) *Cell Reports Medicine* (2026, in press).
+* J. H. Sussman\*, D. A. Oldridge\*, **W. Yu**\*, et al. [A longitudinal single-cell and spatial multiomic atlas of pediatric high-grade glioma](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00183-7) *Cell Reports Medicine* (2026).
 
 * **W. Yu**\*, R. Biyik-Sit\*, Y. Uzun\*, C.H. Chen\*, A. Thadi, et al. [Longitudinal single-cell multiomic atlas of high-risk neuroblastoma reveals chemotherapy-induced tumor microenvironment rewiring](https://www.nature.com/articles/s41588-025-02158-6) *Nature Genetics* (2025).
 
