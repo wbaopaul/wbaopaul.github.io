@@ -14,7 +14,7 @@ permalink: /publications/
 
 * A.U. Zezulin, D. Ye, E. Howell, D. Yen, E. Bresciani, J. Diemer, J. Ren, ..., **W. Yu**#, N. A. Speck#. [RUNX1 is required in granulocyte-monocyte progenitors to attenuate inflammatory cytokine production by neutrophils](https://genesdev.cshlp.org/content/37/13-14/605) *Genes & Development* (2023).
 
-* C. Chen*, **W. Yu**\*, F. Alikarami\*, Q. Qiu, et al. [Single-cell multiomics reveals increased plasticity, resistant populations, and stem-cell–like blasts in KMT2A-rearranged leukemia](https://ashpublications.org/blood/article/139/14/2198/483648/Single-cell-multiomics-reveals-increased) *Blood* (2022).
+* C. Chen\*, **W. Yu**\*, F. Alikarami\*, Q. Qiu, et al. [Single-cell multiomics reveals increased plasticity, resistant populations, and stem-cell–like blasts in KMT2A-rearranged leukemia](https://ashpublications.org/blood/article/139/14/2198/483648/Single-cell-multiomics-reveals-increased) *Blood* (2022).
 
 * **W. Yu**, Y. Uzun, Q. Zhu, C. Chen, K. Tan. [scATAC-pro: a comprehensive workbench for single-cell chromatin accessibility sequencing data](https://pubmed.ncbi.nlm.nih.gov/32312293/) *Genome Biology* (2020).
 
