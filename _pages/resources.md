@@ -4,7 +4,7 @@ title: ' '
 permalink: /resources/
 ---
 
-The Yu Lab develops open-source tools and statistical methodoligies for bulk and single-cell omics analysis.Codes can be found at [Github](https://github.com/wbaopaul).
+The Yu Lab develops open-source tools and statistical methodoligies for bulk and single-cell omics analysis. Codes can be found at [Github](https://github.com/wbaopaul).
 
 - [scATAC-pro](https://pubmed.ncbi.nlm.nih.gov/32312293/): A comprehensive pipeline for single-cell ATAC-seq data analysisd
 
