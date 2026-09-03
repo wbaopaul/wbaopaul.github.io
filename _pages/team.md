@@ -8,7 +8,7 @@ permalink: /team/
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
   <img src="{{ site.baseurl }}/images/headshot_WY.png" alt="Dr. Wenbao Yu" width="150">
   <div>
-    <strong>Dr. Wenbao Yu</strong><br>
+    <strong>Wenbao Yu</strong><br>
     Assistant Professor<br>
     wenbao.yu@temple.edu
   </div>
@@ -18,13 +18,11 @@ permalink: /team/
 
 ### Graduate Students
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
   <div>
     <strong>William Lautert Dutra</strong><br>
     PhD Student<br>
     william.lautert.dutra@temple.edu
   </div>
-</div>
 
 <!--
 **Student Name**
