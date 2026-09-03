@@ -18,6 +18,14 @@ permalink: /team/
 
 ### Graduate Students
 
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
+  <div>
+    <strong>William Lautert Dutra</strong><br>
+    PhD Student<br>
+    william.lautert.dutra@temple.edu
+  </div>
+</div>
+
 <!--
 **Student Name**
 _PhD Student_
