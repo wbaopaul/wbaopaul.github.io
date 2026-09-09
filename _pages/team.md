@@ -18,11 +18,14 @@ permalink: /team/
 
 ### Graduate Students
 
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
+  <img src="{{ site.baseurl }}/images/headshot_WLD.jpeg" alt="William" width="150">
   <div>
     <strong>William Lautert Dutra</strong><br>
     PhD Student<br>
     william.lautert.dutra@temple.edu
   </div>
+</div>
 
 <!--
 **Student Name**
