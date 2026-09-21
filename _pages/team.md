@@ -20,7 +20,7 @@ permalink: /team/
 
   <div>
     <strong>Hanru Sun, PhD </strong><br>
-    Postdoctoral researcher <br>
+    Postdoctoral Fellow  <br>
     hanru.sun@temple.edu
   </div>
 
