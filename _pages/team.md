@@ -8,7 +8,7 @@ permalink: /team/
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
   <img src="{{ site.baseurl }}/images/headshot_WY.png" alt="Dr. Wenbao Yu" width="150">
   <div>
-    <strong>Wenbao Yu</strong><br>
+    <strong>Wenbao Yu</strong><br>, PhD
     Assistant Professor<br>
     wenbao.yu@temple.edu
   </div>
@@ -19,7 +19,7 @@ permalink: /team/
 ### Postdoctoral Researchers
 
   <div>
-    <strong>Hanru Sun, PhD </strong><br>
+    <strong>Hanru Sun</strong><br>, PhD
     Postdoctoral Fellow  <br>
     hanru.sun@temple.edu
   </div>
@@ -31,7 +31,7 @@ permalink: /team/
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
   <img src="{{ site.baseurl }}/images/headshot_WLD.jpeg" alt="William" width="150">
   <div>
-    <strong>William Lautert Dutra</strong><br>
+    <strong>William Lautert Dutra</strong><br>, MS
     PhD Student<br>
     william.lautert.dutra@temple.edu
   </div>
