@@ -16,6 +16,16 @@ permalink: /team/
 
 ---
 
+### Postdoctoral Researchers
+
+  <div>
+    <strong>Hanru Sun, PhD </strong><br>
+    Postdoctoral researcher <br>
+    hanru.sun@temple.edu
+  </div>
+
+---
+
 ### Graduate Students
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
@@ -32,11 +42,6 @@ permalink: /team/
 _PhD Student_
 Research interests: ...
 -->
-
----
-
-### Postdoctoral Researchers
-
 
 ---
 
