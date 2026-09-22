@@ -18,6 +18,8 @@ permalink: /team/
 
 ### Postdoctoral Researchers
 
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
+  <img src="{{ site.baseurl }}/images/headshot_HS.jpeg" alt="Dr. Hanru Sun" width="150">
   <div>
     <strong>Hanru Sun, PhD </strong><br> 
     Postdoctoral Fellow  <br>
