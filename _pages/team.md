@@ -25,6 +25,7 @@ permalink: /team/
     Postdoctoral Fellow  <br>
     hanru.sun@temple.edu
   </div>
+ </div>
 
 ---
 
