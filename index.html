@@ -15,18 +15,15 @@ layout: default
 </p>
 
 <div class="posts">
-  {% for post in paginator.posts %}
-    <article class="post">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1>{{ post.title }}</h1>
-      </a>
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+  <h3>Lab News</h3>
+  <ul class="news-list">
+    {% for post in paginator.posts %}
+      <li>
+        <span class="news-date">{{ post.date | date: "%b %-d, %Y" }}</span> —
+        {{ post.content | remove: '<ul>' | remove: '</ul>' | remove: '<li>' | remove: '</li>' | remove: '<p>' | remove: '</p>' | strip }}
+      </li>
+    {% endfor %}
+  </ul>
 
   <!-- pagination -->
   {% if paginator.total_pages > 1 %}
@@ -55,3 +52,4 @@ layout: default
   </div>
   {% endif %}
 </div>
+
