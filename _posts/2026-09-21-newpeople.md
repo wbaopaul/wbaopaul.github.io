@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lab News 
+title:  
 categories: Miscellaneous
 ---
 
